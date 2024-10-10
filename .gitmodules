@@ -38,3 +38,9 @@
 	path = tchaikovsky_seasons
 	url = https://github.com/DCMLab/tchaikovsky_seasons
 	branch = main
+[submodule "chopin_mazurkas"]
+	path = chopin_mazurkas
+	url = https://github.com/DCMLab/chopin_mazurkas
+[submodule "liszt_pelerinage"]
+	path = liszt_pelerinage
+	url = https://github.com/DCMLab/liszt_pelerinage
