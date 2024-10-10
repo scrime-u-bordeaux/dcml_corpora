@@ -14,10 +14,6 @@
 	path = beethoven_piano_sonatas
 	url = https://github.com/DCMLab/beethoven_piano_sonatas
 	branch = main
-[submodule "chopin_mazurkas"]
-	path = chopin_mazurkas
-	url = https://github.com/DCMLab/chopin_mazurkas
-	branch = main
 [submodule "debussy_suite_bergamasque"]
 	path = debussy_suite_bergamasque
 	url = https://github.com/DCMLab/debussy_suite_bergamasque
@@ -29,10 +25,6 @@
 [submodule "grieg_lyric_pieces"]
 	path = grieg_lyric_pieces
 	url = https://github.com/DCMLab/grieg_lyric_pieces
-	branch = main
-[submodule "liszt_pelerinage"]
-	path = liszt_pelerinage
-	url = https://github.com/DCMLab/liszt_pelerinage
 	branch = main
 [submodule "medtner_tales"]
 	path = medtner_tales
